@@ -1,0 +1,27 @@
+{
+  "source": "uploaded QuickHire-main.zip",
+  "missing_local_references": 0,
+  "external_img_references": 0,
+  "footer_logo": "/assets/QuickHireJobBoardLogo.webp",
+  "footer_logo_exists": true,
+  "about_image_counts": {
+    "/assets/marketsquarecenterindy.webp": 1,
+    "/assets/quickhirecontact01.webp": 1
+  },
+  "public_html_files": 16,
+  "partner_monogram_fallbacks": 38,
+  "homepage_slider_images": [
+    "/assets/QuickHireIndy01.webp",
+    "/assets/gethired!.webp",
+    "/assets/QuickHireChicago01.webp",
+    "/assets/helpwanted!.webp",
+    "/assets/QuickHireTampa01.webp",
+    "/assets/QuickHireWelcome01.webp"
+  ],
+  "checks": {
+    "inline_svg_social_icons": true,
+    "footer_text_white_override": true,
+    "about_images_used_once": true,
+    "all_local_paths_exist": true
+  }
+}

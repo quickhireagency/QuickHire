@@ -1,0 +1,1 @@
+window.QH_CONFIG={CONTACT_ENDPOINT:''};
